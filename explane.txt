@@ -1,0 +1,26 @@
+
+
+
+To Do :-
+
+We will have stack of 
+IPs and clint will connect to the other 
+servers and the servrr will lission to other clint
+
+
+
+Clint mainnet :-
+
+    the clint will post the computation requst
+
+
+Server mainnet :-
+
+    The Server wil lission to the clint and provied computation
+
+
+
+
+Nods:- evry node will have both Server and Clint function 
+
+
